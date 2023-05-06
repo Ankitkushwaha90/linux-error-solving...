@@ -1,3 +1,7 @@
+service apache2 start
+
+./var/www/html/server.html
+
 ./etc/apt/sources.list
 >>
 deb http://http.kali.org/kali kali-rolling main contrib non-free
