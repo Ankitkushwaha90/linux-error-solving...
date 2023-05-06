@@ -1,4 +1,5 @@
-service apache2 start
+in this command start server
+>>service apache2 start
 
 ./var/www/html/server.html
 
